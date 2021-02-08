@@ -1,3 +1,3 @@
 # dwm_config
-# dwm_config
-# dwm_config
+
+Repository to install my similar dwm configuration.
